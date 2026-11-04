@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+langgraph
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-openai
